@@ -14,8 +14,6 @@ A month ago on March 30th, 2018, Rachael Tatman from Kaggle, run a nice set of t
 
 ## Contents
 
-* [Python Basics](Python_Basics.ipynb) -> An introduction and comparison between data structures and a lot of tests to illustrate how to check membership, adding/removing elements to the different data structures and an introduction to numpy arrays. Array visualization (data buffer and view), array sorting, slicing, etc. and Python Comprehensions. 
-
 * [Introduction to Databases in Python](Introduction_to_Databases_in_Python.ipynb) -> Connecting and manipulating databases from a Python client. 
 
 * [Introduction_to_Data_Visualization and customizing plots](Introduction_to_Data_Visualization.ipynb) -> Customize your plots
